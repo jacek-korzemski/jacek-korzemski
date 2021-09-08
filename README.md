@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jacek-korzemski
+- 👀 I’m interested in coding, playing games and making music
+- 🌱 I’m currently learning dev-opsy stuff
