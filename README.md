@@ -3,7 +3,7 @@
 
 # My most valuable app
 
-Is this one: https://github.com/jacek-korzemski/youtube_music_app (production: http://react.metalmusic.pl/)
+Is this one: https://github.com/jacek-korzemski/youtube-music-app-front (frontend) and this one: https://github.com/jacek-korzemski/youtube-music-app-back (backend) (production: http://react.metalmusic.pl/)
 This is a music app, based on my favorite channels from youtube. It contains: 
 - Backend built with Laravel, 
 - some simple PHP CLI interface for updating MySQL database with new records from youtube (in production, database is updated every hour),
