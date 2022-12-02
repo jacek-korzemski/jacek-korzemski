@@ -3,11 +3,9 @@
 
 # My most valuable app
 
-Is this one: https://github.com/jacek-korzemski/youtube-music-app-front (frontend) and this one: https://github.com/jacek-korzemski/youtube-music-app-back (backend) (production: http://react.metalmusic.pl/)
+Is this one: https://github.com/jacek-korzemski/react-music-app-2 (frontend) feeded by less valuable custom api from here: https://github.com/jacek-korzemski/youtube-music-app-back (backend).
 
-## UPDATE
-
-Right now, I'm reworking the whole front app, you can see WIP here: https://github.com/jacek-korzemski/react-music-app-2
+Presented repository is rework of my dream app. Its old version is right now on production: here http://react.metalmusic.pl/
 First of all, I want to make it with TypeScript and use my skills that I've learned since last year.
 
 ## About the app
